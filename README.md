@@ -3,6 +3,6 @@
 for command with brew:
 
 ```shell
-brew tap Gemerz/webos-ares-cli
+brew tap gemerz/ares-cli
 brew install ares-cli
 ```
