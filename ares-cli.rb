@@ -1,4 +1,4 @@
-class AresCliAT1104 < Formula
+ class AresCli < Formula
     desc "The LG tv ares cli for macOs"
     homepage "https://github.com/Gemerz/homebrew-ares-cli"
     url "https://github.com/Gemerz/homebrew-ares-cli/releases/download/1.10.4/ares-webos-cli-mac-1.10.4.tgz"
